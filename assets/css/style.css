@@ -1,0 +1,86 @@
+body {
+	
+	background:url("../images/worldmap.jpg");
+
+}
+
+#maindiv {
+	background-color: black;
+	height:750px;
+	width: 1050px;
+	
+	border:2px solid white;
+	margin-left: 330px;
+	margin-top: 150px;
+}
+
+#intro {
+	color:#FF8000;
+	font-size:50px;
+	font-weight:bold;
+	font-family: courier;
+	margin-left: 100px;
+	margin-top: 20px;
+
+}
+
+#start {
+	height:100px;
+	width:250px;
+	margin-top:200px;
+	margin-left:380px;
+	font-size:30px;
+	color:green;
+	background-color: gray;
+	border:1px solid green;
+
+}
+#timer {
+	margin-top: 40px;
+	color:green;
+	width:100%;
+	display: none;
+	text-align: center;
+	font-size:30px;
+}
+#questions {
+	margin-top: 40px;
+	color:red;
+	width:100%;
+	display: none;
+	text-align: center;
+	font-family: arial;
+	font-size:20px;
+}
+
+hr {
+	width: 75%;
+}
+
+#submit {
+
+	width:100px;
+	font-size:20px;
+}
+
+#results {
+	margin-top: 50px;
+	font-size:30px;
+	text-align: center;
+	display: none;
+	color:orange;
+}
+#iframe {
+	margin-bottom: 0px;
+}
+
+#restart {
+	clear:both;
+	float:center;
+	margin-top: 40px;
+	margin-left:20px;
+	height: 30px;
+	width: :180px;	
+}
+
+
